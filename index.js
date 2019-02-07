@@ -13,7 +13,7 @@ module.exports = {
 				if(json.length > 1){
 					json = json[1];
 
-					json = json.split(";");
+					json = json.split(";</script>");
 
 					if(json.length > 1){
 						json = json[0];

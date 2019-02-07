@@ -1,6 +1,6 @@
 const api = require("./");
 
-api.getUser("dzimiks").then((data) => {
+api.getUser("_programmers.life").then((data) => {
 	console.log(data);
 });
 
