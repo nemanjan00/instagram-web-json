@@ -1,6 +1,6 @@
 {
   "name": "instagram-web-json",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Parser for JSON data from instagram web",
   "main": "index.js",
   "repository": "git@github.com:nemanjan00/instagram-web-json.git",
