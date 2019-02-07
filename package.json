@@ -1,0 +1,13 @@
+{
+  "name": "instagram-web-json",
+  "version": "0.0.0",
+  "description": "Parser for JSON data from instagram web",
+  "main": "index.js",
+  "repository": "git@github.com:nemanjan00/instagram-web-json.git",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

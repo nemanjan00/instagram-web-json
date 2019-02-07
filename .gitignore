@@ -1,0 +1,4 @@
+# Ignore node dependencies
+
+/node_modules
+
